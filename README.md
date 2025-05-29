@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 #### 🧠 About Me
 
-- 📚 I'm a programming student currently studying at **UTN (Universidad Tecnológica Nacional)**.  
-- I'm taking my first steps into the programming world and exploring both **frontend** and **backend** development.  
+- 📚 I'm a programming student currently studying at **UTN-INSPT (Universidad Tecnológica Nacional)**.  
+- 💻 I'm taking my first steps into the programming world and exploring both **frontend** and **backend** development.  
 - 🌱 I’m currently learning about web3
 
 <br>
@@ -180,7 +180,6 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 
-#### 📈 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdont&layout=compact&theme=transparent" alt="Top Languages" />
@@ -195,7 +194,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=gabdont&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=gabdont&icon=0&color=0" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=gabdont&icon=0&color=0" alt="" />
   </a>
 </div>
 
