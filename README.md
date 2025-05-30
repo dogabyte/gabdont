@@ -35,31 +35,18 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="30" height="30" />
 </div>
+
 <br><br>
 
 
-#### 💻 Backend Frameworks
+#### 🌐 Frontend development
 
 <div align="left">
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30"/>
+    <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
   </span>
   <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
-  </span>
-</div>
-
-
-
-#### 🌐 Frontend
-
-<div align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
   <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
   </span>
@@ -67,82 +54,15 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
   </span>
 </div>
-
-
-
-#### 🗃️ Databases
-
-<div align="left">
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
-  </span>
-</div>
-
-
-
-#### ⚙️ DevOps & Tools
-
-<div align="left">
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
-  </span>
-  <span style="display:inline-block;border:1px solid #ccc;border-radius:4px;padding:4px;margin:2px;">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30"/>
-  </span>
-</div>
-
-#### 💻 Languages
-
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 6px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="Clojure" width="30" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="30" height="30" />
-</div>
 <br><br>
 
-#### ⚙️ Backend Frameworks
+#### ⚙️ Backend development
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 6px;">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" />
-</div>
-<br><br>
-
-
-#### 🌐 Frontend
-
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 6px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30" />
 </div>
 <br><br>
 
