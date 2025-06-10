@@ -1,7 +1,7 @@
 ## Hi! I'm **Gabriel** 👋
 
 <!--
-**gabdont/gabdont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dogabyte/dogabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -102,19 +102,19 @@ Here are some ideas to get you started:
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdont&layout=compact&theme=transparent" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gabdont&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabdont&theme=transparent" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogabyte&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dogabyte&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogabyte&theme=transparent" alt="Streak Stats" />
 </div>
 
 <br><br>
 
 <div align="center" style="margin-top: 12px;">
   <p><strong>Profile views:</strong></p>
-  <img src="https://komarev.com/ghpvc/?username=gabdont&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dogabyte&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=gabdont&icon=0&color=0" alt="" />
+    <img src="https://visitcount.itsvg.in/api?id=dogabyte&icon=0&color=0" alt="" />
   </a>
 </div>
 
